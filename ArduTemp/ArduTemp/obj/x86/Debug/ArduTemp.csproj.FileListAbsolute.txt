@@ -1,0 +1,35 @@
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.Config.resources
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.Form1.resources
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.Panel.resources
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.Properties.Resources.resources
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.csproj.GenerateResource.Cache
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\ArduTemp\ArduTemp\bin\Debug\ArduTemp.exe
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\ArduTemp\ArduTemp\bin\Debug\ArduTemp.pdb
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.exe
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.pdb
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.CuadroMonitor.resources
+D:\JORGE\ARDUINO\ArduFan\ArduTemp\ArduTemp\bin\Debug\ArduTemp.exe
+D:\JORGE\ARDUINO\ArduFan\ArduTemp\ArduTemp\bin\Debug\ArduTemp.pdb
+D:\JORGE\ARDUINO\ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.Config.resources
+D:\JORGE\ARDUINO\ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.CuadroMonitor.resources
+D:\JORGE\ARDUINO\ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.Form1.resources
+D:\JORGE\ARDUINO\ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.Grafico.resources
+D:\JORGE\ARDUINO\ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.Panel.resources
+D:\JORGE\ARDUINO\ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.Properties.Resources.resources
+D:\JORGE\ARDUINO\ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.csproj.GenerateResource.Cache
+D:\JORGE\ARDUINO\ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.exe
+D:\JORGE\ARDUINO\ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.pdb
+D:\JORGE\ARDUINO\ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.csprojResolveAssemblyReference.cache
+D:\JORGE\ARDUINO\01 ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.exe
+D:\JORGE\ARDUINO\01 ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.pdb
+D:\JORGE\ARDUINO\01 ArduFan\ArduTemp\ArduTemp\bin\Debug\ArduTemp.exe
+D:\JORGE\ARDUINO\01 ArduFan\ArduTemp\ArduTemp\bin\Debug\ArduTemp.pdb
+D:\JORGE\ARDUINO\01 ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.csprojResolveAssemblyReference.cache
+D:\JORGE\ARDUINO\01 ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.Config.resources
+D:\JORGE\ARDUINO\01 ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.CuadroMonitor.resources
+D:\JORGE\ARDUINO\01 ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.Form1.resources
+D:\JORGE\ARDUINO\01 ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.Grafico.resources
+D:\JORGE\ARDUINO\01 ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.Panel.resources
+D:\JORGE\ARDUINO\01 ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.Properties.Resources.resources
+D:\JORGE\ARDUINO\01 ArduFan\ArduTemp\ArduTemp\obj\x86\Debug\ArduTemp.csproj.GenerateResource.Cache
